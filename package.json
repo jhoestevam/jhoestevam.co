@@ -1,0 +1,22 @@
+{
+  "name": "jhoestevam.co",
+  "version": "1.0.0",
+  "description": "site cv",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhoestevam/jhoestevam.co.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Jhonatan Martin <jhonatanm222@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jhoestevam/jhoestevam.co/issues"
+  },
+  "homepage": "https://github.com/jhoestevam/jhoestevam.co#readme"
+}
